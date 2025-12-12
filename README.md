@@ -1,1 +1,1 @@
-# online-dnevnik.github.io
+# online-dnevnik
